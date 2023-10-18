@@ -3,7 +3,7 @@ import random
 import datetime
 
 st.title(':tada:로또 생성기:tada:')
-
+st.subheader('Made in 웅호')
 
 def generate_lotto():
     lotto = set()
